@@ -10,7 +10,32 @@ You can use the tool to send requests like this (by typing it on the command lin
 nc -v http-by-hand.r7.io 80
 ```
 
-This connects to the http-by-hand.r7.io web server on port 80 and turns on verbose output so you can see when you successfully connect. You can then type out a request and hit enter twice to send it. In order to send a valid HTTP request you will need to write it out line by line, hitting enter twice when you have typed it all out and want to send it. The server will respond and the connection will close. You can look at the response if it was successful and determine what you should do next. The ultimate goal is to log in and get the flag.
+This connects to the http-by-hand.r7.io web server on port 80 and turns on verbose output so you can see when you successfully connect. You can then type out a request and hit enter twice to send it. Try sending a malformed request to see what the server does (your command line prompt may look a little different):
+
+```
+12:01 $ nc -v http-by-hand.r7.io 80
+found 0 associations
+found 1 connections:
+     1:	flags=82<CONNECTED,PREFERRED>
+	outif en0
+	src 10.12.10.17 port 57590
+	dst 162.243.137.118 port 80
+	rank info not available
+	TCP aux info available
+
+Connection to http-by-hand.r7.io port 80 [tcp/http] succeeded!
+omg haiiiii!
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.1.19</center>
+</body>
+</html>
+```
+
+
+In order to send a valid HTTP request you will need to write it out line by line, hitting enter twice when you have typed it all out and want to send it. The server will respond and the connection will close. You can look at the response if it was successful and determine what you should do next. Remember, a server will respond with response codes - those can help you a bit. The ultimate goal is to log in and get the flag.
 
 Note: 
 - No using any tools besides netcat (and maybe echo)
