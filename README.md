@@ -176,7 +176,7 @@ Late penalty:
 - keyloggers
 
 ### Thursday
-- SQLmap
+- OS command injection
 
 ### Homework
 - required 1
