@@ -102,9 +102,6 @@ Late penalty:
 	- fake login forms
 
 ### Homework
-- required
-	- special XSS payloads
-	- due next thursday
 - recommended
 	- reading on CSRF and Clickjacking
 		- WAHH Chapter 13 section on "Inducing User Action" (501-515)
@@ -113,7 +110,6 @@ Late penalty:
 
 ## Week 4 - CSRF & Clickjacking
 ### Tuesday
-- go over last weeks hw
 - CSRF
 	- how it works
 	- why it's bad
