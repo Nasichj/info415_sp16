@@ -1,4 +1,4 @@
-## XSS Homework Grading
+## XSS Homework Grading (30 points total)
 Homework challenges can be found at: http://xss-challenges.r7.io/
 
 ### Part 1 - Vulnerabilities - 25.5 points

@@ -1,4 +1,4 @@
-## HTTP by Hand Homework Grading
+## HTTP by Hand Homework Grading (10 points total)
 Homework challenges can be found at: http://http-by-hand.r7.io/
 
 ### Browse by Hand - 10 points
