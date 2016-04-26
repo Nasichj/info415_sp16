@@ -139,7 +139,7 @@ Late penalty:
 	- read WAHH chapter 9
 
 
-## Week 5 - SQLi
+## Week 5 - SQLi 1
 ### Tuesday
 - SQL injection
 	- how it works
@@ -152,9 +152,7 @@ Late penalty:
 - SQL practice
 
 ### Lab
-- lockpicking
-	- slides
-	- https://www.youtube.com/watch?v=ChbyaXBKNY8
+- ???
 
 ### Thursday
 - SQL injection practice
@@ -175,7 +173,7 @@ Late penalty:
 - OS command injection
 
 ### Homework
-- required 1
+- required
 	- SQL injection challenges
 	- pentest report
 	- due next tuesday
@@ -203,7 +201,7 @@ Late penalty:
 
 ### Homework
 - required
-	- advanced SQL challenges
+	- SuperSecureBank pentest
 	- pentest report
 	- due next thursday
 
@@ -226,9 +224,9 @@ Late penalty:
 
 ### Homework
 - required
-	- piggy bank pentest
-	- due next thursday
+	- golden bank pentest
 	- pentest report
+	- due next thursday
 
 
 ## Week 9 - Misc. Attacks
@@ -237,7 +235,9 @@ Late penalty:
 - embedded web servers
 
 ### Lab
-- ???
+- lockpicking
+	- slides
+	- https://www.youtube.com/watch?v=ChbyaXBKNY8
 
 ### Thursday
 - arbitrary file read
@@ -246,9 +246,7 @@ Late penalty:
 
 ### Homework
 - required
-	- bank websites pentest
-	- due next thursday
-	- pentest report
+	- none
 - recommended
 	- read WAHH Chapter 10 section "Manipulating File Paths"
 	- read WAHH Chapter 11 section "Example 12: Racing Against the Login"
@@ -259,7 +257,6 @@ Late penalty:
 - mass assignment attacks
 
 ### Lab
-- testing techniques
 - review
 
 ### Thursday
