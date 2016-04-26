@@ -31,8 +31,8 @@ A .zip file containing the following:
 
 1. An HTML file that opens in Firefox and triggers the CSRF attack against lvl 1 and make a post on the lvl 1 wall.
 2. An HTML file that opens in Firefox and triggers the CSRF attack against lvl 2 and make a post on the lvl 2 wall.
-3. An HTML file that opens in Firefox and triggers the CSRF attack against lvl 2 and make a post on the lvl 3 wall.
-3. A .txt file containing a URL that I can copy and paste into Firefox that will trigger an attack against lvl 4 and make a post on the lvl 4 wall.
+3. An HTML file that opens in Firefox and triggers the CSRF attack against lvl 3 and make a post on the lvl 3 wall.
+4. A .txt file containing a URL that I can copy and paste into Firefox that will trigger an attack against lvl 4 and make a post on the lvl 4 wall.
 
 ## Due Date
 You can submit your malicious pages and link to me on Tuesday April 26th by 5:30pm (17:30) via email and I will run them. This will allow you to verify whether your CSRF attacks worked, and if they didn't work, give you a few days to tweak them.
