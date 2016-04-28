@@ -23,7 +23,7 @@ Late penalty:
 - stops at 50% deduction
 
 # Resources
-- Bitsync key:   
+- Bitsync key: BAPDG2PLBHLTP72NDQLVE3MHVKCF5WUSQ 
 - Suggested reading: Web Application Hacker's Handbook
 
 # Weekly Schedule
