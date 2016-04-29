@@ -1,4 +1,4 @@
-## CSRF Homework Grading (20 points total)
+## CSRF HW Grading (20 points total)
 Homework challenges can be found at: http://csrf-challenges.r7.io/
 
 ## Part 1 - Vulnerabilities 13 points
