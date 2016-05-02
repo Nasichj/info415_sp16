@@ -34,7 +34,7 @@ This part must be submitted in the form of a .txt file.
 This must be submitted in the form of a .txt file!
 
 ## Due Date
-Tuesday May 5th 3:30pm (15:30)
+Thursday May 5th 3:30pm (15:30)
 
 ## Notes & Hints
 Please include links to any pages, guides, tutorials, people, or anything you used to help you figure out these challenges. Please do not cheat or trade answers! If you gently/fairly help one another out make sure to credit the people that helped you in your report. Give credit where credit is due.
