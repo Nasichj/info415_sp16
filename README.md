@@ -159,7 +159,10 @@ Late penalty:
 	- OWASP Broken Web Application
 
 ### Homework
-- none
+- required
+	- SQL injection challenges
+	- pentest report
+	- due next tuesday
 
 
 ## Week 6 - SQLi 2
@@ -174,9 +177,7 @@ Late penalty:
 
 ### Homework
 - required
-	- SQL injection challenges
-	- pentest report
-	- due next tuesday
+	- none
 - recommended
 	- read WAHH chapter 6
 	- read WAHH chapter 7
