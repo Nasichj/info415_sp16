@@ -167,13 +167,13 @@ Late penalty:
 
 ## Week 6 - SQLi 2
 ### Tuesday
-- Advanced SQL injection techniques
+- canceled
 
 ### Lab
 - keyloggers
 
 ### Thursday
-- OS command injection
+- Advanced SQL injection techniques
 
 ### Homework
 - required
