@@ -152,7 +152,7 @@ Late penalty:
 - SQL practice
 
 ### Lab
-- ???
+- social engineering
 
 ### Thursday
 - SQL injection practice
@@ -193,18 +193,13 @@ Late penalty:
 	- insufficient entropy
 
 ### Lab
-- metasploit
+- canceled
 
 ### Thursday
 - authentication 2.0
-	- 2 factor auth schemes
-	- single signon
 
 ### Homework
-- required
-	- SuperSecureBank pentest
-	- pentest report
-	- due next thursday
+- none
 
 
 ## Week 8 - Crypto
@@ -220,8 +215,8 @@ Late penalty:
 - bitcoin
 
 ### Thursday
+- single signon
 - business logic attacks
-- race conditions
 
 ### Homework
 - required
@@ -236,29 +231,28 @@ Late penalty:
 - embedded web servers
 
 ### Lab
-- lockpicking
-	- slides
-	- https://www.youtube.com/watch?v=ChbyaXBKNY8
+- canceled
 
 ### Thursday
-- arbitrary file read
-- local file inclusion
-	- demo
+- canceled
 
 ### Homework
 - required
-	- none
-- recommended
-	- read WAHH Chapter 10 section "Manipulating File Paths"
-	- read WAHH Chapter 11 section "Example 12: Racing Against the Login"
+	- SuperSecureBank pentest
+	- pentest report
+	- due next thursday
 
 
 ## Week 10 - Advanced Attacks
 ### Tuesday
+- arbitrary file read
+- local file inclusion
 - mass assignment attacks
 
 ### Lab
-- review
+- lockpicking
+	- slides
+	- https://www.youtube.com/watch?v=ChbyaXBKNY8
 
 ### Thursday
 - final
