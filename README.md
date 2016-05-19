@@ -237,7 +237,7 @@ Late penalty:
 - canceled
 
 ### Homework
-- required
+- required (not assigned until following tuesday)
 	- SuperSecureBank pentest
 	- pentest report
 	- due next thursday
