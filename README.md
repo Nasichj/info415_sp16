@@ -219,16 +219,13 @@ Late penalty:
 - business logic attacks
 
 ### Homework
-- required
-	- golden bank pentest
-	- pentest report
-	- due next thursday
+- none
 
 
 ## Week 9 - Misc. Attacks
 ### Tuesday
-- hardware hacking
-- embedded web servers
+- testing techniques
+- review HW answers
 
 ### Lab
 - canceled
@@ -237,17 +234,18 @@ Late penalty:
 - canceled
 
 ### Homework
-- required (not assigned until following tuesday)
-	- SuperSecureBank pentest
+- required
+	- golden bank pentest
 	- pentest report
 	- due next thursday
 
 
 ## Week 10 - Advanced Attacks
 ### Tuesday
-- arbitrary file read
-- local file inclusion
-- mass assignment attacks
+- homework
+	- SuperSecureBank pentest
+	- pentest report
+	- due thursday
 
 ### Lab
 - lockpicking
