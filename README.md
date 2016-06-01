@@ -242,10 +242,7 @@ Late penalty:
 
 ## Week 10 - Advanced Attacks
 ### Tuesday
-- homework
-	- SuperSecureBank pentest
-	- pentest report
-	- due thursday
+- canceled
 
 ### Lab
 - lockpicking
